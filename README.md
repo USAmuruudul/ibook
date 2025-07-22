@@ -33,6 +33,10 @@ Builds customer trust through reliability
 Can be extended to multiple service domains easily
 Enables providers to focus more on their service and less on logistics
 
+
+## 📌 Use Case Diagram
+![Use case diagram.jpg](Use%20case%20diagram.jpg)
+
 ## 📘 User Stories
 
 ### 🧑‍💼 As a Service Provider, I want to:
