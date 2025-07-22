@@ -40,7 +40,9 @@ Enables providers to focus more on their service and less on logistics
 ## 📌 Use Case Diagram
 ![Use case diagram.jpg](Use%20case%20diagram.jpg)
 
+
 ## 📘 User Stories
+
 
 ### 🧑‍💼 As a Service Provider, I want to:
 1. ✅ Create my availability timetable
@@ -62,6 +64,7 @@ Enables providers to focus more on their service and less on logistics
 
    So that I can analyze busy periods and customer frequency
 
+
 ### 🧑‍💻 As a Customer, I want to:
 1. ✅ View a provider’s available time slots
 
@@ -78,6 +81,7 @@ Enables providers to focus more on their service and less on logistics
 5. ✅ Avoid double bookings
 
    So that I can trust the service provider’s system
+
 
 ### 🔧 As a System, I want to:
 1. ✅ Prevent double booking
