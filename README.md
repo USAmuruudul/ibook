@@ -33,6 +33,8 @@ Builds customer trust through reliability
 Can be extended to multiple service domains easily
 Enables providers to focus more on their service and less on logistics
 
+## 📌 Context Diagram
+![Context Diagram.jpg](Context%20Diagram.jpg)
 
 ## 📌 Use Case Diagram
 ![Use case diagram.jpg](Use%20case%20diagram.jpg)
