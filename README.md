@@ -85,7 +85,7 @@ Enables providers to focus more on their service and less on logistics
 
 
 ## 📌 User Story Map
-![User Story map](User%20Story%20map.png)
+![User Story map](User%20story%20map.png)
 
 ## 📋 User Stories and Acceptance Criteria
 
