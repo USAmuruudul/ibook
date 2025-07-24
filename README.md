@@ -166,3 +166,15 @@ Enables providers to focus more on their service and less on logistics
 4. Alternatively, customer selects reschedule, views available future slots, selects one, and confirms.
 5. System updates the appointment and sends confirmation.
 
+## Class diagram
+
+![Class.jpg](Class.jpg)
+
+## Sequence diagrams
+
+Create Appointment
+![Sequence.jpg](Sequence.jpg)
+
+
+Change Appointment status
+![Sequence_2.jpg](Sequence_2.jpg)
