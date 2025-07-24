@@ -178,3 +178,7 @@ Create Appointment
 
 Change Appointment status
 ![Sequence_2.jpg](Sequence_2.jpg)
+
+
+## 🧱 Architecture
+![Architect.jpg](Architect.jpg)
